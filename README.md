@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+Hello, I am a new programmer playing around with git repositories on my computer. I am trying to gain familiarity with github and git repositories.
 **littsdj/littsdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
