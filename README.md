@@ -2,7 +2,9 @@
 Hello, My name is Dj Litts. As of October 2023, I am a graduate of Tech Elevator coding bootcamp. 
 My biggest project on here is my SuperFan Source website, which is my final capstone project from Tech Elevator.
 
-Keep an eye out for upcoming projects from me regarding a Baccarat Simulator, and a Sudoku Solver.
+Cool projects in the works are a text based craps simulator, and a sudoku solver that pulls sudoku puzzles from an API and solves them.
+
+Keep an eye out for upcoming projects from me regarding a Baccarat Simulator.
 
 <!--
 Hello, I am a new programmer playing around with git repositories on my computer. I am trying to gain familiarity with github and git repositories.
