@@ -1,10 +1,9 @@
 ### Hi there 👋
-Hello, My name is Dj Litts. As of October 2023, I am a graduate of Tech Elevator coding bootcamp. 
-My biggest project on here is my SuperFan Source website, which is my final capstone project from Tech Elevator.
+Hello, My name is Dj Litts. I am a software developer at at major financial services firm
 
-Cool projects in the works are a text based craps simulator, and a sudoku solver that pulls sudoku puzzles from an API and solves them.
+None of the projects on here are very active, but feel free to browse. The main projects I have are some projects I used as portfolio projects when I was finishing up school and starting my job search. I have a sudoku solver which I am pretty proud of. It could use some improvement, but it was a good exercise. I also have a craps simulator that has some recent updates. I used to be a casino dealer, so that app was what I spent a lot of my free time on before I had a job in software. 
 
-Keep an eye out for upcoming projects from me regarding a Baccarat Simulator.
+Feel free to browse, but not much worth looking at. Enjoy!
 
 <!--
 Hello, I am a new programmer playing around with git repositories on my computer. I am trying to gain familiarity with github and git repositories.
